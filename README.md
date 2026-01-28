@@ -3,7 +3,7 @@
 🚀 Student | Tech Explorer | Problem Solver  
 
 I like breaking things (software) and fixing them.  
-I **how things work under the hood**, not just getting them to run.
+Curiouse **how things work under the hood**, not just getting them to run.
 
 <p align="left">
   <img src="https://media.giphy.com/media/ma2DAeksFGa6E2POj9/giphy.gif" width="500" alt="AllianceDAO gif" />
